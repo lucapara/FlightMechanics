@@ -19,12 +19,12 @@ The demo calculates and displays a number of parameters that are significant for
 - Best speed for max range i.e. distance flown (RNG)
 
 # Controls
-Throttle: W/S
-Elevator: Mouse Y (down is up)
-Aileron: Mouse X
-Rudder: A/D, reset to neutral with Q
-Flaps: H to lower, Y to retract
-Landing Gear: G
-Ground Brakes: Up/Down arrow
-Spectator Camera: X
-Quit: Escape
+- Throttle: W/S
+- Elevator: Mouse Y (down is up)
+- Aileron: Mouse X
+- Rudder: A/D, reset to neutral with Q
+- Flaps: H to lower, Y to retract
+- Landing Gear: G
+- Ground Brakes: Up/Down arrow
+- Spectator Camera: X
+- Quit: Escape
